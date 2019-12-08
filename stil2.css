@@ -1,0 +1,91 @@
+body{
+	background-position: top center;
+	text-align: center;
+	
+
+
+}
+
+.yazi
+{
+	font: normal 15px "Lucida Sans Unicode", "Lucida Grande", sans-serif;
+	
+	}
+.aciklama
+{
+	font: normal 14px "Lucida Sans Unicode", "Lucida Grande", sans-serif;
+	color : "gray";
+	text-decoration:none;
+	}
+	
+		.altmenuyazi
+{
+	font: normal 15px "Lucida Sans Unicode", "Lucida Grande", sans-serif;
+	color :#949494;
+	}
+	
+	.altmenubaslik
+{
+	font: normal 15px "Lucida Sans Unicode", "Lucida Grande", sans-serif;
+	color :#000;
+	}
+
+	.menuyazi
+{
+	font: bold normal 15px "Lucida Sans Unicode", "Lucida Grande", sans-serif;
+	
+	color :#ffffff;
+	
+	}
+	.menuyazired
+{
+	font: bold 15px "Lucida Sans Unicode", "Lucida Grande", sans-serif;
+	color:#C00;
+	 
+	}
+		.kucukyazi
+{
+	font: normal 12px "Lucida Sans Unicode", "Lucida Grande", sans-serif;
+	color :#B1B1B1;
+	}
+	.uyeadi
+{
+	font: normal 13px "Lucida Sans Unicode", "Lucida Grande", sans-serif;
+	color : #939393;
+	}
+	.topics
+{
+	font: normal 13px "Lucida Sans Unicode", "Lucida Grande", sans-serif;
+	color : #94B6F9;
+	}
+.soru
+{
+	font: normal 22px "Lucida Sans Unicode", "Lucida Grande", sans-serif;
+	
+	}
+.btn {
+  background: #3498db;
+ 
+  
+  font-family: Arial;
+  color: #ffffff;
+  font-size: 15px;
+  border-bottom-style:ridge;
+  border:0;
+  
+  padding: 8px 20px 8px 20px;
+  
+}
+
+.btn:hover {
+	background: #3cb0fd;
+	text-decoration: none;
+	
+}
+
+.texbox {
+	
+	font: normal 15px "Lucida Sans Unicode", "Lucida Grande", sans-serif;
+	background-color:#eee;
+	border-style:inherit;
+	}
